@@ -1,0 +1,8 @@
+{
+    "assets": {
+      "type": "command",
+      "command": {
+        "cmd": ["npm run generate && mv ./publish $BUILD_DEST"]
+      }
+    }
+  }
